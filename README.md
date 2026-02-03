@@ -2,7 +2,17 @@
 
 A fun party game where everyone gets a word - but someone has a different one! Find the imposter before they blend in.
 
-![Word Imposter](frontend/public/logo.png)
+<p align="center">
+  <img src="frontend/public/logo.png" alt="Word Imposter Logo" width="150">
+</p>
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="frontend/public/screenshot1.png" alt="Home Screen" width="280">
+  <img src="frontend/public/screenshot2.png" alt="Game Setup" width="280">
+  <img src="frontend/public/screenshot3.png" alt="Role Reveal" width="280">
+</p>
 
 ## 🎮 How to Play
 
@@ -26,8 +36,8 @@ A fun party game where everyone gets a word - but someone has a different one! F
 
 ```bash
 # Clone the repo
-git clone https://github.com/Tanim-10/word-imposter-game.git
-cd word-imposter-game/frontend
+git clone https://github.com/Tanim-10/Word-Imposter-Game.git
+cd Word-Imposter-Game/frontend
 
 # Install dependencies
 npm install

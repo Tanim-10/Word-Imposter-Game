@@ -3,7 +3,7 @@ const Footer = () => {
         linkedin: "https://linkedin.com/in/md-tanim-islam-351164326/",
         instagram: "https://instagram.com/islammdtanim10",
         github: "https://github.com/Tanim-10",
-        repo: "https://github.com/Tanim-10/Word-Imposter-Game",
+        repo: "https://github.com/Tanim-10/Word-Imposter-Game"
     };
 
     return (
